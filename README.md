@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<div  align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px">
+<p>Hi there 👋</p>
 <img height="180em" src="https://github-readme-stats-kappa-orpin-64.vercel.app/api?username=muryarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muryarth&layout=compact&langs_count=16&theme=dracula"/>
 </div>

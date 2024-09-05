@@ -11,7 +11,7 @@
   </p>
 
   <div>
-    <p>Algumas da tecnologias que utilizo:</p>
+    <p>Algumas das tecnologias que utilizo:</p>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
       width="30"

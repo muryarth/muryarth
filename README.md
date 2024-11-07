@@ -1,13 +1,15 @@
 <div align="center">
   <p>Olá 👋</p>
   <p>
-    Meu nome é Arthur, sou graduado em Engenharia da Computação e tenho
-    experiência trabalhando com desenvolvimento Frontend para SharePoint.
+    Meu nome é Arthur, sou graduado em Engenharia da Computação e tenho uma sólida
+    experiência trabalhando com desenvolvimento Frontend.
   </p>
   <p>
-    Atualmente estou me aprofundando em desenvolvimento Backend com Java, mas
-    estou sempre fazendo um projeto voltado para alguma tecnologia diferente,
-    fique à vontade para dar uma olhada! :wink:
+    Atualmente estou trabalhando na MJV Technology and Innovation, onde eu planejo e desenvolvo soluções voltadas para o ecossistema do SharePoint OnPremises, em sistemas internos.
+  </p>
+  <p>
+    Aqui no GitHub, eu publico todos os projetos pessoais que eu desenvolvo no intuito de aprender novas tecnologias, recursos, linguagens, e também para experimentar soluções voltadas para stacks diferentes da que eu atuo.
+    Fique à vontade para dar uma olhada! :wink:
   </p>
 
   <div>
